@@ -18,9 +18,9 @@
 
 ![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
 ![Flutter](https://img.shields.io/badge/Flutter-%23323330.svg?style=for-the-badge&logo=Flutter&logoColor=%FF0F7BE4)
-![Jenkins](https://img.shields.io/badge/Jenkins-%2335495e.svg?style=for-the-badge&logo=jenkins&logoColor=%FFC62327)
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Compose](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white)
 
 #### 最近更新：
 
