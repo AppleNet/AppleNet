@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官-&gt;RecyclerView回收复用&amp;LayoutManager，实战探探划一下](https://juejin.cn/post/7324705027276406821)
 - [如何应对Android面试官-&gt;我用RecyclerView实现了吸顶效果](https://juejin.cn/post/7324011374949695526)
 - [如何应对Android面试官-&gt;文字中心绘制和颜色渐变，实战头条炫酷ViewPager指示器](https://juejin.cn/post/7322850477690454025)
 - [如何应对Android面试官-&gt;事件分发冲突与解决方案大揭秘](https://juejin.cn/post/7322156745618604070)
 - [Jetpack Compose -&gt; 声明式UI &amp; Modifier](https://juejin.cn/post/7321410924106104858)
-- [如何应对Android面试官-&gt;嵌套滚动原理大揭秘，实战京东首页二级联动](https://juejin.cn/post/7320288212441759782)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
