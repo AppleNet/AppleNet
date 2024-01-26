@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官-&gt; NestedScrollView 嵌套滑动机制详解，手写 NestedScrollView 核心实现](https://juejin.cn/post/7327965216826392602)
 - [如何应对Android面试官-&gt; 玩转 ViewPager 懒加载](https://juejin.cn/post/7326985574463438886)
 - [Jetpack Compose -&gt; 分包 &amp; 自定义Composable](https://juejin.cn/post/7326268967352582153)
 - [如何应对Android面试官-&gt;我用RecyclerView实现了探探的滑动效果](https://juejin.cn/post/7324705027276406821)
 - [如何应对Android面试官-&gt;我用RecyclerView实现了吸顶效果](https://juejin.cn/post/7324011374949695526)
-- [如何应对Android面试官-&gt;文字中心绘制和颜色渐变，实战头条炫酷ViewPager指示器](https://juejin.cn/post/7322850477690454025)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
