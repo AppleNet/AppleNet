@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose -&gt; MutableState 和 mutableStateOf&lpar;&rpar;](https://juejin.cn/post/7329363655815512102)
 - [如何应对Android面试官-&gt; NestedScrollView 嵌套滑动机制详解，手写 NestedScrollView 核心实现](https://juejin.cn/post/7327965216826392602)
 - [如何应对Android面试官-&gt; 玩转 ViewPager 懒加载](https://juejin.cn/post/7326985574463438886)
 - [Jetpack Compose -&gt; 分包 &amp; 自定义Composable](https://juejin.cn/post/7326268967352582153)
 - [如何应对Android面试官-&gt;我用RecyclerView实现了探探的滑动效果](https://juejin.cn/post/7324705027276406821)
-- [如何应对Android面试官-&gt;我用RecyclerView实现了吸顶效果](https://juejin.cn/post/7324011374949695526)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
