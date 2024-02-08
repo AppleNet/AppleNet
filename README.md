@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官-&gt;实战高级UI，用自定义View画一条锦鲤&lpar;上&rpar;](https://juejin.cn/post/7332656641819672639)
 - [如何应对Android面试官-&gt; 自定义 PhotoView 事件分发](https://juejin.cn/post/7331591798333767689)
 - [大龄程序员的2024年1月总结：转岗、热榜、分享、健康、技术文章](https://juejin.cn/post/7330521875649151002)
 - [如何应对Android面试官-&gt; CoordinatorLayout详解，我用 Behavior 实现了手势跟随](https://juejin.cn/post/7330065707357257738)
 - [Jetpack Compose -&gt; MutableState 和 mutableStateOf&lpar;&rpar;](https://juejin.cn/post/7329363655815512102)
-- [如何应对Android面试官-&gt; NestedScrollView 嵌套滑动机制详解，手写 NestedScrollView 核心实现](https://juejin.cn/post/7327965216826392602)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
