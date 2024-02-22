@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Compose -&gt; 重组作用域和remember&lpar;&rpar;](https://juejin.cn/post/7338250632938455049)
 - [如何应对Android面试官-&gt;实战高级UI，用自定义View画一条锦鲤&lpar;下&rpar;](https://juejin.cn/post/7337112002551300134)
 - [如何应对Android面试官-&gt;实战高级UI，用自定义View画一条锦鲤&lpar;上&rpar;](https://juejin.cn/post/7332656641819672639)
 - [如何应对Android面试官-&gt; 自定义 PhotoView 事件分发](https://juejin.cn/post/7331591798333767689)
 - [大龄程序员的2024年1月总结：转岗、热榜、分享、健康、技术文章](https://juejin.cn/post/7330521875649151002)
-- [如何应对Android面试官-&gt; CoordinatorLayout详解，我用 Behavior 实现了手势跟随](https://juejin.cn/post/7330065707357257738)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
