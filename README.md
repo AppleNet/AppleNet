@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官-&gt;玩转Binder机制，手写MMKV核心实现](https://juejin.cn/post/7344682689453424649)
 - [如何应对Android面试官-&gt;Handler原理解析，玩转同步屏障](https://juejin.cn/post/7342420969879175219)
 - [Jetpack Compose -&gt; 重组作用域和remember&lpar;&rpar;](https://juejin.cn/post/7338250632938455049)
 - [如何应对Android面试官-&gt;实战高级UI，用自定义View画一条锦鲤&lpar;下&rpar;](https://juejin.cn/post/7337112002551300134)
 - [如何应对Android面试官-&gt;实战高级UI，用自定义View画一条锦鲤&lpar;上&rpar;](https://juejin.cn/post/7332656641819672639)
-- [如何应对Android面试官-&gt; 自定义 PhotoView 事件分发](https://juejin.cn/post/7331591798333767689)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
