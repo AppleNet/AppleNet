@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官-&gt;进程通信如何注册与获取服务](https://juejin.cn/post/7350889978577272842)
 - [如何应对Android面试官-&gt;进程通信，启动与获取SM服务](https://juejin.cn/post/7349212852644577307)
 - [Jetpack Compose -&gt; 无状态、状态提升，单向数据流](https://juejin.cn/post/7345388391804813349)
 - [如何应对Android面试官-&gt;玩转Binder机制，手写MMKV核心实现](https://juejin.cn/post/7344682689453424649)
 - [如何应对Android面试官-&gt;Handler原理解析，玩转同步屏障](https://juejin.cn/post/7342420969879175219)
-- [Jetpack Compose -&gt; 重组作用域和remember&lpar;&rpar;](https://juejin.cn/post/7338250632938455049)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
