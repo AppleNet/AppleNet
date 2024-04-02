@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官 -&gt; Android 系统启动流程浅析](https://juejin.cn/post/7352939767719493683)
 - [大龄程序员的2024年3月总结：鸿蒙，发起GDE申请，金石计划获奖，月榜，技术文章](https://juejin.cn/post/7352075765930459186)
 - [如何应对Android面试官-&gt;Android中的类加载机制，手写热修复框架（上）](https://juejin.cn/post/7350977434096795689)
 - [如何应对Android面试官-&gt;进程通信如何注册与获取服务](https://juejin.cn/post/7350889978577272842)
 - [如何应对Android面试官-&gt;进程通信，启动与获取SM服务](https://juejin.cn/post/7349212852644577307)
-- [Jetpack Compose -&gt; 无状态、状态提升，单向数据流](https://juejin.cn/post/7345388391804813349)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
