@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官 -&gt; startActivity 流程详解](https://juejin.cn/post/7357911195947040805)
 - [如何应对Android面试官 -&gt; ActivityManagerService 是怎么启动的？](https://juejin.cn/post/7356535808930938918)
 - [如何应对Android面试官 -&gt; Android 如何实现增量更新，Tinker patch包生成核心原理](https://juejin.cn/post/7355845498990837769)
 - [Jetpack Compose -&gt; mustableStateOf 状态机制的背后秘密](https://juejin.cn/post/7355075401612492810)
 - [如何应对Android面试官 -&gt; Android 系统启动流程浅析](https://juejin.cn/post/7352939767719493683)
-- [大龄程序员的2024年3月总结：鸿蒙，发起GDE申请，金石计划获奖，月榜，技术文章](https://juejin.cn/post/7352075765930459186)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
