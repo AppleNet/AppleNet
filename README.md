@@ -29,7 +29,7 @@
 - [如何应对Android面试官 -&gt; startActivity 流程详解](https://juejin.cn/post/7357911195947040805)
 - [如何应对Android面试官 -&gt; ActivityManagerService 是怎么启动的？](https://juejin.cn/post/7356535808930938918)
 - [如何应对Android面试官 -&gt; Android 如何实现增量更新，Tinker patch包生成核心原理](https://juejin.cn/post/7355845498990837769)
-- [Jetpack Compose -&gt; mustableStateOf 状态机制的背后秘密](https://juejin.cn/post/7355075401612492810)
+- [Jetpack Compose -&gt; mutableStateOf 状态机制的背后秘密](https://juejin.cn/post/7355075401612492810)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
