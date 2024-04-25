@@ -25,11 +25,11 @@
 #### 最近更新：
 
 <!-- BLOG-POST-LIST:START -->
+- [如何应对Android面试官 -&gt; PKMS 安装与签名校验](https://juejin.cn/post/7361458685485006899)
 - [Jetpack Compose -&gt; 重组的性能风险和优化](https://juejin.cn/post/7360928627632373786)
 - [如何应对Andriod面试官 -&gt; 如何 Hook Activity 的启动流程？](https://juejin.cn/post/7358670107901624357)
 - [如何应对Android面试官 -&gt; startActivity 流程详解](https://juejin.cn/post/7357911195947040805)
 - [如何应对Android面试官 -&gt; ActivityManagerService 是怎么启动的？](https://juejin.cn/post/7356535808930938918)
-- [如何应对Android面试官 -&gt; Android 如何实现增量更新，Tinker patch包生成核心原理](https://juejin.cn/post/7355845498990837769)
 <!-- BLOG-POST-LIST:END -->
 
 #### 我的作品
